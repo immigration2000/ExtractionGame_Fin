@@ -1,0 +1,2870 @@
+[
+	{
+		"Name": "ChestRig_Portable",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "ChestRig_QuickRecon",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "ChestRig_LightTactical",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "ChestRig_Basic",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "ChestRig_NylonSlingBag",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 2
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 2
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "ChestRig_HK3Portable",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 2
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 3,
+					"Y": 2
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "ChestRig_D01Light",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 3,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "ChestRig_UniversalTactical",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 2
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 2
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "ChestRig_BasicPortable",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 3,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 3,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 2
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "ChestRig_HD3Tactical",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 2
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 3,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 2
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 3,
+					"Y": 2
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "ChestRig_DSATactical",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 3,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "ChestRig_G01Tactical",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 3,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 4,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 3,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "ChestRig_AssaultTacticalVest",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 3,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 4,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 2
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 2
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "ChestRig_RaiderTacticalVest",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 3,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 2
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 3
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "ChestRig_DRCAdvancedRecon",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 2
+				},
+				"bHalfRowOffset": true,
+				"bHalfColumnOffset": true
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 2
+				},
+				"bHalfRowOffset": true,
+				"bHalfColumnOffset": true
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 2
+				},
+				"bHalfRowOffset": true,
+				"bHalfColumnOffset": true
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "ChestRig_GIRField",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 2
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 2
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 2
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 3,
+					"Y": 2
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "ChestRig_BlackHawkField",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 3,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 2
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 3,
+					"Y": 2
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 3
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 5
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "ChestRig_DARAssault",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 3
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 3
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 3
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_SlingBag",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_SportsBackpack",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 4
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_TravelBackpack",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 5,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_Rucksack",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 5,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_DGSports",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 4,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_LightOutdoor",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 3,
+					"Y": 4
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_TacticalQR",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 3,
+					"Y": 5
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_Camping",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 3,
+					"Y": 5
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_AssaultTactical",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 3,
+					"Y": 5
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_LargeClimbing",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 3,
+					"Y": 4
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 1
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_3HTactical",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 3,
+					"Y": 6
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_DASHTactical",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 4,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 2
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_GAField",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 5,
+					"Y": 4
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_RainforestHunter",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 3,
+					"Y": 7
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_FieldHiking",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 4,
+					"Y": 5
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 5
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 5
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_MAPRecon",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 4,
+					"Y": 4
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 4
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 4
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_D2TacticalClimbing",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 4,
+					"Y": 6
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_GT1OutdoorClimbing",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 5,
+					"Y": 5
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_PangolinUniversalTactical",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 3
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 3
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 5
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 5
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_ALSLoadSystem",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 4,
+					"Y": 5
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 5
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 5
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 6
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 6
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_HLS2Heavy",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 2,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 3
+				},
+				"GridPosition": {
+					"X": 3,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 4,
+					"Y": 4
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 3
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_D3TacticalClimbing",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 4,
+					"Y": 7
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_GT5Field",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 5,
+					"Y": 6
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_D7Tactical",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 5,
+					"Y": 7
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_HeavyClimbing",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 3,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 4,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 5,
+					"Y": 6
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 2
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Backpack_GTOHeavyTactical",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 5,
+					"Y": 9
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Pocket",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 1,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 2,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 3,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			},
+			{
+				"SectionSize": {
+					"X": 1,
+					"Y": 1
+				},
+				"GridPosition": {
+					"X": 4,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "Safe",
+		"LayoutSections": [],
+		"BlockCategory": [
+			"ChestRig",
+			"Backpack",
+			"Helmet",
+			"Armor",
+			"Weapon",
+			"WeapomAccessories"
+		]
+	},
+	{
+		"Name": "MainStash_0",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 35
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "MainStash_1",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 37
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "MainStash_2",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 40
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "MainStash_3",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 43
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "MainStash_4",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 47
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "MainStash_5",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 51
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "BasicArchiveCrate",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 4
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": [
+			"ChestRig",
+			"Backpack",
+			"Helmet",
+			"Armor",
+			"Weapon",
+			"WeapomAccessories",
+			"Ammo",
+			"Consumable"
+		]
+	},
+	{
+		"Name": "IntermediateWeaponCrate",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 6
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": [
+			"ChestRig",
+			"Backpack",
+			"Helmet",
+			"Armor",
+			"Ammo",
+			"Consumable",
+			"Collectible"
+		]
+	},
+	{
+		"Name": "PremiumWeaponCrate",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 8
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": [
+			"ChestRig",
+			"Backpack",
+			"Helmet",
+			"Armor",
+			"Ammo",
+			"Consumable",
+			"Collectible"
+		]
+	},
+	{
+		"Name": "GTIWeaponCrate",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 12
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": [
+			"ChestRig",
+			"Backpack",
+			"Helmet",
+			"Armor",
+			"Ammo",
+			"Consumable",
+			"Collectible"
+		]
+	},
+	{
+		"Name": "NoviceMaterialCrate",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 2
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": [
+			"ChestRig",
+			"Backpack",
+			"Helmet",
+			"Armor",
+			"Weapon",
+			"WeapomAccessories",
+			"Ammo",
+			"Consumable"
+		]
+	},
+	{
+		"Name": "BasicMaterialCrate",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 4
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": [
+			"ChestRig",
+			"Backpack",
+			"Helmet",
+			"Armor",
+			"Weapon",
+			"WeapomAccessories",
+			"Ammo",
+			"Consumable"
+		]
+	},
+	{
+		"Name": "IntermediateMaterialCrate",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 6
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": [
+			"ChestRig",
+			"Backpack",
+			"Helmet",
+			"Armor",
+			"Weapon",
+			"WeapomAccessories",
+			"Ammo",
+			"Consumable"
+		]
+	},
+	{
+		"Name": "PremiumMaterialCrate",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 10
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": [
+			"ChestRig",
+			"Backpack",
+			"Helmet",
+			"Armor",
+			"Weapon",
+			"WeapomAccessories",
+			"Ammo",
+			"Consumable"
+		]
+	},
+	{
+		"Name": "GTIMaterialCrate",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 16
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": [
+			"ChestRig",
+			"Backpack",
+			"Helmet",
+			"Armor",
+			"Weapon",
+			"WeapomAccessories",
+			"Ammo",
+			"Consumable"
+		]
+	},
+	{
+		"Name": "BasicMedCrate",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 4
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": [
+			"ChestRig",
+			"Backpack",
+			"Helmet",
+			"Armor",
+			"Weapon",
+			"WeapomAccessories",
+			"Ammo",
+			"Collectible"
+		]
+	},
+	{
+		"Name": "PremiumMedCrate",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 8
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": [
+			"ChestRig",
+			"Backpack",
+			"Helmet",
+			"Armor",
+			"Weapon",
+			"WeapomAccessories",
+			"Ammo",
+			"Collectible"
+		]
+	},
+	{
+		"Name": "IntermediateGearCrate",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 6
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": [
+			"Weapon",
+			"WeapomAccessories",
+			"Ammo",
+			"Consumable",
+			"Collectible"
+		]
+	},
+	{
+		"Name": "PremiumGearCrate",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 8
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": [
+			"Weapon",
+			"WeapomAccessories",
+			"Ammo",
+			"Consumable",
+			"Collectible"
+		]
+	},
+	{
+		"Name": "GTIGearCrate",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 14
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": [
+			"Weapon",
+			"WeapomAccessories",
+			"Ammo",
+			"Consumable",
+			"Collectible"
+		]
+	},
+	{
+		"Name": "BasicAmmoCrate",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 4
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": [
+			"ChestRig",
+			"Backpack",
+			"Helmet",
+			"Armor",
+			"Weapon",
+			"WeapomAccessories",
+			"Consumable",
+			"Collectible"
+		]
+	},
+	{
+		"Name": "PremiumAmmoCrate",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 8
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": [
+			"ChestRig",
+			"Backpack",
+			"Helmet",
+			"Armor",
+			"Weapon",
+			"WeapomAccessories",
+			"Consumable",
+			"Collectible"
+		]
+	},
+	{
+		"Name": "PremiumItemCrate",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 8
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "GTIItemCrate",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 10
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": []
+	},
+	{
+		"Name": "IntermediateCollectibleCrate",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 8
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": [
+			"ChestRig",
+			"Backpack",
+			"Helmet",
+			"Armor",
+			"Weapon",
+			"WeapomAccessories",
+			"Ammo",
+			"Consumable"
+		]
+	},
+	{
+		"Name": "PremiumCollectibleCrate",
+		"LayoutSections": [
+			{
+				"SectionSize": {
+					"X": 9,
+					"Y": 12
+				},
+				"GridPosition": {
+					"X": 0,
+					"Y": 0
+				},
+				"bHalfRowOffset": false,
+				"bHalfColumnOffset": false
+			}
+		],
+		"BlockCategory": [
+			"ChestRig",
+			"Backpack",
+			"Helmet",
+			"Armor",
+			"Weapon",
+			"WeapomAccessories",
+			"Ammo",
+			"Consumable"
+		]
+	}
+]
